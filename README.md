@@ -5,7 +5,7 @@
 - [XML API Specification](https://github.com/shilpakaul11/API-Documents/blob/main/XML_API_Specification_Guide.pdf)
  
 <h2>👨‍💻 DITA XML Documents </h2>
-  - [Sample-1](https://github.com/shilpakaul11/DITA-XML-documents)
+- [Sample-1](https://github.com/shilpakaul11/DITA-XML-documents)
     
 <h2>👨‍💻 User Guides </h2>
 
