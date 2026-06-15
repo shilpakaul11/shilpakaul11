@@ -4,40 +4,36 @@
 
 - [XML API Specification](https://github.com/shilpakaul11/API-Documents/blob/main/XML_API_Specification_Guide.pdf)
  
-<h2>👨‍💻 DITA XML Documents </h2>
+<h3>👨‍💻 DITA XML Documents </h3>
 - [Sample-1](https://github.com/shilpakaul11/DITA-XML-documents)
     
-<h2>👨‍💻 User Guides </h2>
+<h3>👨‍💻 User Guides </h3>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>👨‍💻 Process Documents </h2>
+<h3>👨‍💻 Process Documents </h3>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
  
-<h2>👨‍💻 Technical Documents </h2>
+<h3>👨‍💻 Technical Documents </h3>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 Certifications</h2>
+<h3>📺 Certifications</h3>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-<h2> 🤳 Connect with me:</h2>
+<h3> 🤳 Connect with me:</h3>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ShilpaKaul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/shilpakaul
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
