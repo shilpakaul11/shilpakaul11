@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shilpa! <br/><a href="https://github.com/shilpakaul11">Technical Writer</a>, <a href="www.linkedin.com/in/shilpakaul"> </a> Procedure Writer, Knowledge Management Specialist </h1>
+<h1>Hi, I'm Shilpa! <br/><a href="https://github.com/shilpakaul11">Technical Writer</a>, <a href="www.linkedin.com/in/shilpakaul"> </a> Procedure Writer, Knowledge Management Specialist, Information Architect </h1>
 
 <h2>👨‍💻 API Documents </h2>
 
