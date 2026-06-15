@@ -2,27 +2,35 @@
 
 Welcome to my Portfolio!👋 I am a technical writer focused on delivering clear, high-quality documentation while constantly mastering new industry methodologies. Welcome! </br> This hub contains repositories showcasing my technical writing, information architecture, and professional work samples. Thank you for exploring! Please check my Linkedin profile to learn more about my qualifications. 
 
-<h3>Documentation Types:</h3>
-This repository organizes technical writing samples by documentation type. Check back frequently for new project commits.<br/>
-<li> Standard Operating Procedures (SOPs) </li>
-<li> How-tos & Tutorials </li>
-<li> Quick Reference Guides </li>
+<section id="documentation-types" style="font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px;">
+  <h3 style="color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 10px; margin-bottom: 15px;">Documentation Types</h3>
+  
+  <p style="margin-bottom: 20px;">This repository organizes technical writing samples by documentation type. Check back frequently for new project commits.</p>
+  
+  <ul style="padding-left: 20px; list-style-type: disc;">
+    <li style="margin-bottom: 8px;">Standard Operating Procedures (SOPs)</li>
+    <li style="margin-bottom: 8px;">How-tos & Tutorials</li>
+    <li style="margin-bottom: 8px;">Quick Reference Guides</li>
+  </ul>
+</section>
 
-
-<h3> About me </h3>
+<h3> About me </h3> 
 I am a Senior Technical Writer and Knowledge Management Specialist with 20 years of experience turning complex cloud architectures, developer tools, and SaaS/PaaS systems into clear, actionable documentation.I bridge the gap between complex engineering concepts and diverse audiences—whether writing deep-dive API documentation for developers or building accessible, user-friendly help systems for end users.
 
-<h3> What I Do Best </h3> <b/> 
-<li> Modern & Structured Authoring: Equally fluent in modern Docs-as-Code workflows and structured DITA XML environments. </li>
-<li> Information Architecture: 5+ years of specialized experience streamlining massive source repositories, managing knowledge systems, and scaling enterprise documentation pipelines. </li>
-<li> Cloud & DevOps Documentation: Deep expertise in translating complex AWS, Microsoft Azure, and CI/CD web pipelines into structured, step-by-step technical guides. </li>
-<li> Team Leadership & Agile: Proven success managing writing cohorts, coordinating cross-functional projects, and collaborating with UX teams to deliver accessible, WCAG-compliant content. </li>
-
-<h3> My ToolkitCore Skills </h3> <b/> 
- 
-<li> API/SDK Documentation, Structured Authoring, Content Reuse, UX Writing, Project Management </li>
-<li> Systems & Tools: Oxygen XML, XMetaL, MadCap Flare, FrameMaker, RoboHelp, MS Visio </li>
-<li> Collaboration & Repositories: Jira, Confluence, SharePoint, GitHub/GitLab, Azure DevOps </li>
+<h3 style="color: #34495e; margin-top: 30px;">What I Do Best</h3>
+  <ul style="padding-left: 20px;">
+    <li style="margin-bottom: 10px;"><strong>Modern & Structured Authoring:</strong> Equally fluent in modern <em>Docs-as-Code</em> workflows and structured <em>DITA XML</em> environments.</li>
+    <li style="margin-bottom: 10px;"><strong>Information Architecture:</strong> 5+ years of specialized experience streamlining massive source repositories, managing knowledge systems, and scaling enterprise documentation pipelines.</li>
+    <li style="margin-bottom: 10px;"><strong>Cloud & DevOps Documentation:</strong> Deep expertise in translating complex AWS, Microsoft Azure, and CI/CD web pipelines into structured, step-by-step technical guides.</li>
+    <li style="margin-bottom: 10px;"><strong>Team Leadership & Agile:</strong> Proven success managing writing cohorts, coordinating cross-functional projects, and collaborating with UX teams to deliver accessible, WCAG-compliant content.</li>
+  </ul>
+  
+<h3 style="color: #34495e; margin-top: 30px;">My Toolkit</h3>
+  <ul style="padding-left: 20px;">
+    <li style="margin-bottom: 8px;"><strong>Core Skills:</strong> API/SDK Documentation, Structured Authoring, Content Reuse, UX Writing, Project Management</li>
+    <li style="margin-bottom: 8px;"><strong>Systems & Tools:</strong> Oxygen XML, XMetaL, MadCap Flare, FrameMaker, RoboHelp, MS Visio</li>
+    <li style="margin-bottom: 8px;"><strong>Collaboration & Repositories:</strong> Jira, Confluence, SharePoint, GitHub/GitLab, Azure DevOps</li>
+  </ul>
 
 <h3>👨‍💻 API Documents </h3>
 
