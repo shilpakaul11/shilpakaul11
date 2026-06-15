@@ -6,30 +6,23 @@ Welcome to my Portfolio!👋 I am a technical writer focused on delivering clear
 This repository organizes technical writing samples by documentation type. Check back frequently for new project commits.<br/>
 <li> Standard Operating Procedures (SOPs) </li>
 <li> How-tos & Tutorials </li>
-Quick Reference Guides
-Online Knowledge Base
-Explainers
-FAQ entry samples
-Diagrams</li>
+<li> Quick Reference Guides </li>
 
-Standard Operating Procedures (SOPs)
-How-tos & Tutorials
-Quick Reference Guides
-Online Knowledge Base
-Explainers
-FAQ entry samples
-Diagrams
-My Information Architecture (IA) samples are categorized into the following documentation types, with new projects added over time.
 
-IA Process Documents
-Ontologies
-Taxonomies
-Controlled Vocabularies
-Other documents
-About me
-I'm a former academic librarian, graphic designer, and curator, with years of teaching experience and plenty of time writing research guides, how-tos, documentation of processes and policies, and other related duties. As an academic librarian, my job has been teaching college students how to do research, use complex research databases, format documents, print, use a variety of software, and other tools. As a bit of a systems nerd, I have spent time organizing our sharepoint, developed an internal knowledge base, and begun work on a full information architecture redesign of our internal pages. To best help my users, I've spent a lot of time creating tutorials, instructions, guides, FAQs, etc. I genuinely enjoy writing instructions and helping users navigate tricky systems.
+<h3> About me </h3>
+I am a Senior Technical Writer and Knowledge Management Specialist with 20 years of experience turning complex cloud architectures, developer tools, and SaaS/PaaS systems into clear, actionable documentation.I bridge the gap between complex engineering concepts and diverse audiences—whether writing deep-dive API documentation for developers or building accessible, user-friendly help systems for end users.
 
-Prior to becoming a librarian, I worked as an academic program manager and a freelance graphic designer, and use my project management skills and design expertise in current projects. Some of my samples represent edited versions of past projects that are internal documentation and therefore not available publically, while others reference projects I've conducted as a librarian. I am very skilled at relationship building and working cross-departmentally, and pick up technology tools quickly, including Sharepoint, JIRA, and CMS platforms. I am familiar with XML, JSON, and DITA, and am comfortable with HTML and CSS.
+<h3> What I Do Best </h3> <b/> 
+<li> Modern & Structured Authoring: Equally fluent in modern Docs-as-Code workflows and structured DITA XML environments. </li>
+<li> Information Architecture: 5+ years of specialized experience streamlining massive source repositories, managing knowledge systems, and scaling enterprise documentation pipelines. </li>
+<li> Cloud & DevOps Documentation: Deep expertise in translating complex AWS, Microsoft Azure, and CI/CD web pipelines into structured, step-by-step technical guides. </li>
+<li> Team Leadership & Agile: Proven success managing writing cohorts, coordinating cross-functional projects, and collaborating with UX teams to deliver accessible, WCAG-compliant content. </li>
+
+<h3> My ToolkitCore Skills </h3> <b/> 
+ 
+<li> API/SDK Documentation, Structured Authoring, Content Reuse, UX Writing, Project Management </li>
+<li> Systems & Tools: Oxygen XML, XMetaL, MadCap Flare, FrameMaker, RoboHelp, MS Visio </li>
+<li> Collaboration & Repositories: Jira, Confluence, SharePoint, GitHub/GitLab, Azure DevOps </li>
 
 <h3>👨‍💻 API Documents </h3>
 
