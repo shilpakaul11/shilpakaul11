@@ -1,10 +1,10 @@
 <h2>Hi, I'm Shilpa! <br/> Technical Writer/Procedure Writer/Knowledge Management Specialist/Information Architect </h2>
 
-Welcome to my Portfolio!👋 I am a technical writer focused on delivering clear, high-quality documentation while constantly mastering new industry methodologies. Welcome! This hub contains repositories showcasing my technical writing, information architecture, and professional work samples. Thank you for exploring! Please check my Linkedin profile to learn more about my qualifications. This page is made using Markdown with elements of CSS and HTML.
+Welcome to my Portfolio!👋 I am a technical writer focused on delivering clear, high-quality documentation while constantly mastering new industry methodologies. Welcome! </br> This hub contains repositories showcasing my technical writing, information architecture, and professional work samples. Thank you for exploring! Please check my Linkedin profile to learn more about my qualifications. This page is made using Markdown with elements of CSS and HTML.
 
 The Technical Writing Repository is primarily focused on technical documentation and end-user focused work.
 The Information Architecture Repository is primarily focused on Information Architecture elements, ontologies, and taxonomies.
-<h3>Documentation Types:<h3/>
+<h3>Documentation Types:</h3>
 My technical writing samples are categorized into the following documentation types, with new projects added over time. <br/>
 
 Standard Operating Procedures (SOPs)
