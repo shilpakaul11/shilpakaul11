@@ -4,8 +4,8 @@ Welcome to my Portfolio!👋 I am a technical writer focused on delivering clear
 
 <h3>Documentation Types:</h3>
 This repository organizes technical writing samples by documentation type. Check back frequently for new project commits.<br/>
-<li>Standard Operating Procedures (SOPs)
-How-tos & Tutorials
+<li> Standard Operating Procedures (SOPs) </li>
+<li> How-tos & Tutorials </li>
 Quick Reference Guides
 Online Knowledge Base
 Explainers
