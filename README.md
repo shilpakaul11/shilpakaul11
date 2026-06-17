@@ -22,8 +22,6 @@ I am a Senior Technical Writer and Knowledge Management Specialist with 20 years
 
 <h3>📺 Certifications</h3>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
 <h3> 🤳 Connect with me:</h3>
 
 [Linkedin](https://linkedin.com/in/shilpakaul)
