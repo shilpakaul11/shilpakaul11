@@ -20,11 +20,10 @@ I am a Senior Technical Writer and Knowledge Management Specialist with 20 years
     <li style="margin-bottom: 8px;"><strong>Collaboration & Repositories:</strong> Jira, Confluence, SharePoint, GitHub/GitLab, Azure DevOps</li>
   </ul>
 
-<h3>📺 Certifications</h3>
+<h3> Certifications</h3>
 
-<h3> 🤳 Connect with me:</h3>
+<h3> Connect with me:</h3>
 
-[Linkedin](https://linkedin.com/in/shilpakaul)
 
 
 
