@@ -38,6 +38,8 @@ I am a Senior Technical Writer and Knowledge Management Specialist with 20 years
 
 <h3> Connect with me:</h3>
 
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/shilpakaul)
+
 
 
 
