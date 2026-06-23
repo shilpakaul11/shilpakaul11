@@ -3,7 +3,7 @@
 Welcome to my Portfolio!👋 I am a technical writer focused on delivering clear, high-quality documentation while constantly mastering new industry methodologies. </br> This hub contains repositories showcasing my technical writing, information architecture, and professional work samples. Thank you for exploring! Please check my [Writing Samples](https://github.com/shilpakaul11/My-Writing-Samples) and [Linkedin](https://linkedin.com/in/shilpakaul) profile to learn more about my qualifications. 
 
 <h3> About me </h3> 
-I am a Senior Technical Writer and Knowledge Management Specialist with 20 years of experience turning complex cloud architectures, developer tools, and SaaS/PaaS systems into clear, actionable documentation.I bridge the gap between complex engineering concepts and diverse audiences—whether writing deep-dive API documentation for developers or building accessible, user-friendly help systems for end users.
+I am a Senior Technical Writer and Knowledge Management Specialist with 20 years of experience turning complex cloud architectures, developer tools, and SaaS/PaaS systems into clear, actionable documentation. I bridge the gap between complex engineering concepts and diverse audiences—whether writing deep-dive API documentation for developers or building accessible, user-friendly help systems for end users.
 
 <h3 style="color: #34495e; margin-top: 30px;">What I Do Best</h3>
   <ul style="padding-left: 20px;">
