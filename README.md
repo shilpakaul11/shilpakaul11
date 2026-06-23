@@ -21,14 +21,14 @@ I am a Senior Technical Writer and Knowledge Management Specialist with 20 years
   </ul>
 
 <h3> Certifications</h3>
-## Technical and Content Certifications
+<h4> Technical and Content Certifications</h4>
 
 * **Docs as Code Certification** — platformOS | 2026
 * **Adobe Experience Manager (AEM) Guides and PDF Accessibility** — Adobe Digital Learning Services | *In Progress* | 2026
 * **Accessible Content Specialist** — Contented | *In Progress* | 2026
 * **Good Manufacturing Practice (GMP) for Pharma & QA** — Udemy | *In Progress* | 2026
 
-## AI Credentials
+<h4>AI Credentials</h4> 
 
 * **AI for Brainstorming and Planning | AI Fundamentals** — Google | 2026
 * **Generative AI Production Tools (Gemini, Claude, ChatGPT, Jasper AI)** — Coursiv | 2026 
