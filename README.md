@@ -34,7 +34,6 @@ I am a Senior Technical Writer and Knowledge Management Specialist with 20 years
 * **Generative AI Production Tools (Gemini, Claude, ChatGPT, Jasper AI)** — Coursiv | 2026 
 * **Azure DevOps** — Coursera Project Network | 2023
 
-
 <h3> Connect with me:</h3>
 
 
