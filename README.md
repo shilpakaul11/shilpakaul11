@@ -31,7 +31,7 @@ I am a Senior Technical Writer and Knowledge Management Specialist with 20 years
 
 <h4>AI Credentials</h4> 
 
-* AI Fundamentals | AI Fundamentals - Google | 2026
+* AI Fundamentals - Google | 2026
 * AI for Brainstorming and Planning - Google | 2026
 * Generative AI Production Tools (Gemini, Claude, ChatGPT, Jasper AI) - Coursiv | 2026 
 
