@@ -37,7 +37,6 @@ I am a Senior Technical Writer and Knowledge Management Specialist with 20 years
 
 
 <h3> Connect with me:</h3>
-## Connect with me:
 
 👔 [LinkedIn](https://linkedin.com/in/shilpakaul)
 
