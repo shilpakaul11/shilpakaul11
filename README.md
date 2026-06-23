@@ -21,6 +21,55 @@ I am a Senior Technical Writer and Knowledge Management Specialist with 20 years
   </ul>
 
 <h3> Certifications</h3>
+<?xml version="1.0" encoding="UTF-8"?>
+<credentials>
+    <category name="Technical and Content Certifications">
+        <certification>
+            <title>Docs as Code Certification</title>
+            <issuer>platformOS</issuer>
+            <status>Completed</status>
+            <year>2026</year>
+        </certification>
+        <certification>
+            <title>Adobe Experience Manager (AEM) guides and PDF Accessibility</title>
+            <issuer>Adobe Digital Learning Services</issuer>
+            <status>In Progress</status>
+            <year>2026</year>
+        </certification>
+        <certification>
+            <title>Accessible Content Specialist</title>
+            <issuer>Contented</issuer>
+            <status>In Progress</status>
+            <year>2026</year>
+        </certification>
+        <certification>
+            <title>Good Manufacturing Practice (GMP) for Pharma &amp; QA</title>
+            <issuer>Udemy</issuer>
+            <status>In Progress</status>
+            <year>2026</year>
+        </certification>
+    </category>
+    <category name="AI Credentials">
+        <certification>
+            <title>AI for Brainstorming and Planning | AI Fundamentals</title>
+            <issuer>Google</issuer>
+            <status>Completed</status>
+            <year>2026</year>
+        </certification>
+        <certification>
+            <title>Generative AI Production Tools (Gemini, Claude, ChatGPT, Jasper AI)</title>
+            <issuer>Coursiv</issuer>
+            <status>Completed</status>
+            <year>2026</year>
+        </certification>
+        <certification>
+            <title>Azure DevOps</title>
+            <issuer>Coursera Project Network</issuer>
+            <status>Completed</status>
+            <year>2023</year>
+        </certification>
+    </category>
+</credentials>
 
 <h3> Connect with me:</h3>
 
