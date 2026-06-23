@@ -22,6 +22,7 @@ I am a Senior Technical Writer and Knowledge Management Specialist with 20 years
 
 <h3> Certifications</h3>
 <h4> Technical and Content Certifications</h4>
+
 * Azure DevOps — Coursera Project Network | 2023
 * Docs as Code Certification - platformOS | 2026
 * Adobe Experience Manager (AEM) Guides and PDF Accessibility - Adobe Digital Learning Services | 2026
@@ -29,6 +30,7 @@ I am a Senior Technical Writer and Knowledge Management Specialist with 20 years
 * Good Manufacturing Practice (GMP) for Pharma & QA - Udemy | *In Progress* | 2026
 
 <h4>AI Credentials</h4> 
+
 * AI Fundamentals | AI Fundamentals - Google | 2026
 * AI for Brainstorming and Planning - Google | 2026
 * Generative AI Production Tools (Gemini, Claude, ChatGPT, Jasper AI) - Coursiv | 2026 
