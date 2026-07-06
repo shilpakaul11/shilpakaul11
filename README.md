@@ -4,7 +4,7 @@ Welcome to my Portfolio!👋 I am a technical writer focused on delivering clear
 Explore the repository Wiki to review my foundational frameworks: [AI-First Documentation Operations Model](https://github.com/shilpakaul11/My-Writing-Samples/wiki/AI%E2%80%90First-Documentation-Operating-Model)  and [AI-First Documentation Architecture](https://github.com/shilpakaul11/My-Writing-Samples/wiki/AI%E2%80%90First-Documentation-Architecture).
 
 <h3> About me </h3> 
-I am a Senior Technical Writer and Knowledge Management Specialist with 20 years of experience turning complex cloud architectures, developer tools, and SaaS/PaaS systems into clear, actionable documentation. I bridge the gap between complex engineering concepts and diverse audiences—whether writing deep-dive API documentation for developers or building accessible, user-friendly help systems for end users.
+I am a Technical Writer and Knowledge Management Specialist with 20 years of experience turning complex cloud architectures, developer tools, and SaaS/PaaS systems into clear, actionable documentation. I bridge the gap between complex engineering concepts and diverse audiences—whether writing deep-dive API documentation for developers or building accessible, user-friendly help systems for end users.
 
 <h3 style="color: #34495e; margin-top: 30px;">What I Do Best</h3>
   <ul style="padding-left: 20px;">
