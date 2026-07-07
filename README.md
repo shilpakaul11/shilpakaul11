@@ -14,7 +14,7 @@ I am an Information Architect and a Technical Writer with 20 years of experience
     <li style="margin-bottom: 10px;"><strong>Team Leadership & Agile:</strong> Proven success managing writing cohorts, coordinating cross-functional projects, and collaborating with UX teams to deliver accessible, WCAG-compliant content.</li>
   </ul>
 
-### Skills & Tools Matrix
+### Skills and Tools Matrix
 
 | Category | Skills & Technologies |
 | :--- | :--- |
@@ -23,7 +23,7 @@ I am an Information Architect and a Technical Writer with 20 years of experience
 | **Collaboration & Repositories** | Jira • Confluence • SharePoint • GitHub/GitLab • Azure DevOps |
 
 
-### Writing Standards & Style Guides
+### Writing Standards and Style Guides
 
 Table of industry-standard style guides and publication manuals utilized across technical and corporate writing.
 
