@@ -21,6 +21,19 @@ I am an Information Architect and a Technical Writer with 20 years of experience
     <li style="margin-bottom: 8px;"><strong>Collaboration & Repositories:</strong> Jira, Confluence, SharePoint, GitHub/GitLab, Azure DevOps</li>
   </ul>
 
+### Writing Standards & Style Guides
+
+Table of industry-standard style guides and publication manuals utilized across technical and corporate writing.
+
+| Style Guide | Category | Primary Focus & Use Case |
+| :--- | :--- | :--- |
+| **Microsoft Manual of Style for Technical Publications** | Technical | Standard for clear, concise, and user-friendly software documentation. |
+| **Apple Publication Style Guide** | Technical | Focuses on precision, tone, and specific terminology for hardware/software content. |
+| **Google Cloud Publishing Guide** | Technical | Framework for developer-focused cloud infrastructure and API documentation. |
+| **Chicago Manual of Style** | Editorial | The definitive guide for comprehensive grammar, editing, and publishing practices. |
+| **Schwab Editorial Style Guide** | Corporate/Finance | Specialized guidelines tailored for corporate financial communications and wealth management content. |
+| **American Psychological Association (APA) Publication Manual** | Academic | The official standard for behavioral and social sciences research formatting and citations. |
+
 <h3> Certifications</h3>
 <h4> Technical and Content Certifications</h4>
 
