@@ -18,9 +18,9 @@ I am an Information Architect and a Technical Writer with 20 years of experience
 
 | Category | Skills & Technologies |
 | :--- | :--- |
-| **Core Skills** | API/SDK Documentation • Structured Authoring • Content Reuse • UX Writing • Project Management |
-| **Systems & Tools** | Oxygen XML • XMetaL • MadCap Flare • FrameMaker • RoboHelp • MS Visio |
-| **Collaboration & Repositories** | Jira • Confluence • SharePoint • GitHub/GitLab • Azure DevOps |
+| Core Skills | API/SDK Documentation • Structured Authoring • Content Reuse • UX Writing • Project Management |
+| Systems & Tools | Oxygen XML • XMetaL • MadCap Flare • FrameMaker • RoboHelp • MS Visio |
+| Collaboration & Repositories | Jira • Confluence • SharePoint • GitHub/GitLab • Azure DevOps |
 
 
 ### Writing Standards and Style Guides
@@ -29,28 +29,31 @@ Table of industry-standard style guides and publication manuals utilized across 
 
 | Style Guide | Category | Primary Focus & Use Case |
 | :--- | :--- | :--- |
-| **Microsoft Manual of Style for Technical Publications** | Technical | Standard for clear, concise, and user-friendly software documentation. |
-| **Apple Publication Style Guide** | Technical | Focuses on precision, tone, and specific terminology for hardware/software content. |
-| **Google Cloud Publishing Guide** | Technical | Framework for developer-focused cloud infrastructure and API documentation. |
-| **Chicago Manual of Style** | Editorial | The definitive guide for comprehensive grammar, editing, and publishing practices. |
-| **Schwab Editorial Style Guide** | Corporate/Finance | Specialized guidelines tailored for corporate financial communications and wealth management content. |
-| **American Psychological Association (APA) Publication Manual** | Academic | The official standard for behavioral and social sciences research formatting and citations. |
+| Microsoft Manual of Style for Technical Publications | Technical | Standard for clear, concise, and user-friendly software documentation. |
+| Apple Publication Style Guide | Technical | Focuses on precision, tone, and specific terminology for hardware/software content. |
+| Google Cloud Publishing Guide | Technical | Framework for developer-focused cloud infrastructure and API documentation. |
+| Chicago Manual of Style | Editorial | The definitive guide for comprehensive grammar, editing, and publishing practices. |
+| Schwab Editorial Style Guide | Corporate/Finance | Specialized guidelines tailored for corporate financial communications and wealth management content. |
+| American Psychological Association (APA) Publication Manual | Academic | The official standard for behavioral and social sciences research formatting and citations. |
 
 <h3> Certifications</h3>
-<h4> Technical and Content Certifications</h4>
+<h4> Technical and Content Certifications </h4>
 
-* Azure DevOps - Coursera Project Network | 2023
-* Docs as Code Certification - platformOS | 2026
-* Adobe Experience Manager (AEM) Guides and PDF Accessibility - Adobe Digital | 2026
-* Accessible Content Specialist - Contented | *In Progress* | 2026
-* Good Manufacturing Practice (GMP) for Pharma & QA - Udemy | *In Progress* | 2026
+| Certification Name | Issuing Organization | Status / Year |
+| :--- | :--- | :--- |
+| Azure DevOps | Coursera Project Network | 2023 |
+| Docs as Code Certification | platformOS | 2026 |
+| Adobe Experience Manager (AEM) Guides and PDF Accessibility | Adobe Digital | 2026 |
+| Accessible Content Specialist | Contented | *In Progress* \| 2026 |
+| Good Manufacturing Practice (GMP) for Pharma & QA | Udemy | *In Progress* \| 2026 |
 
-<h4>AI Credentials</h4> 
+<h4> AI Credentials </h4>
 
-* AI Fundamentals - Google | 2026
-* AI for Brainstorming and Planning - Google | 2026
-* Generative AI Production Tools (Gemini, Claude, ChatGPT, Jasper AI) - Coursiv | 2026 
-
+| Certification Name | Issuing Organization | Year |
+| :--- | :--- | :--- |
+| AI Fundamentals | Google | 2026 |
+| AI for Brainstorming and Planning | Google | 2026 |
+| Generative AI Production Tools (Gemini, Claude, ChatGPT, Jasper AI) | Coursiv | 2026 |
 
 <h3> Connect with me:</h3>
 
