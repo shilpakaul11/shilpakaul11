@@ -1,6 +1,6 @@
 <h2>Hi, I'm Shilpa! <br/> Technical Writer/Procedure Writer/Knowledge Management Specialist/Information Architect </h2>
 
-Welcome to my Portfolio!👋 I am a technical writer focused on delivering clear, high-quality documentation while constantly mastering new industry methodologies. This hub contains repositories showcasing my technical writing, information architecture, and professional work samples. Please check my [Writing Samples](https://github.com/shilpakaul11/My-Writing-Samples) and [Linkedin](https://linkedin.com/in/shilpakaul) profile to learn more about my qualifications. </br>
+Welcome to my Portfolio!👋</br> I am a technical writer focused on delivering clear, high-quality documentation while constantly mastering new industry methodologies. This hub contains repositories showcasing my technical writing, information architecture, and professional work samples. Please check my [Writing Samples](https://github.com/shilpakaul11/My-Writing-Samples) and [Linkedin](https://linkedin.com/in/shilpakaul) profile to learn more about my qualifications. </br>
 Explore the repository Wiki to review my foundational frameworks: [AI-First Documentation Operations Model](https://github.com/shilpakaul11/My-Writing-Samples/wiki/AI%E2%80%90First-Documentation-Operating-Model)  and [AI-First Documentation Architecture](https://github.com/shilpakaul11/My-Writing-Samples/wiki/AI%E2%80%90First-Documentation-Architecture).
 
 <h3> About me </h3> 
