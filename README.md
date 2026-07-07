@@ -13,13 +13,15 @@ I am an Information Architect and a Technical Writer with 20 years of experience
     <li style="margin-bottom: 10px;"><strong>Cloud & DevOps Documentation:</strong> Deep expertise in translating complex AWS, Microsoft Azure, and CI/CD web pipelines into structured, step-by-step technical guides.</li>
     <li style="margin-bottom: 10px;"><strong>Team Leadership & Agile:</strong> Proven success managing writing cohorts, coordinating cross-functional projects, and collaborating with UX teams to deliver accessible, WCAG-compliant content.</li>
   </ul>
-  
-<h3 style="color: #34495e; margin-top: 30px;">My Toolkit</h3>
-  <ul style="padding-left: 20px;">
-    <li style="margin-bottom: 8px;"><strong>Core Skills:</strong> API/SDK Documentation, Structured Authoring, Content Reuse, UX Writing, Project Management</li>
-    <li style="margin-bottom: 8px;"><strong>Systems & Tools:</strong> Oxygen XML, XMetaL, MadCap Flare, FrameMaker, RoboHelp, MS Visio</li>
-    <li style="margin-bottom: 8px;"><strong>Collaboration & Repositories:</strong> Jira, Confluence, SharePoint, GitHub/GitLab, Azure DevOps</li>
-  </ul>
+
+### Skills & Tools Matrix
+
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Core Skills** | API/SDK Documentation • Structured Authoring • Content Reuse • UX Writing • Project Management |
+| **Systems & Tools** | Oxygen XML • XMetaL • MadCap Flare • FrameMaker • RoboHelp • MS Visio |
+| **Collaboration & Repositories** | Jira • Confluence • SharePoint • GitHub/GitLab • Azure DevOps |
+
 
 ### Writing Standards & Style Guides
 
