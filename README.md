@@ -41,11 +41,10 @@ Table of industry-standard style guides and publication manuals utilized across 
 
 | Certification Name | Issuing Organization | Status / Year |
 | :--- | :--- | :--- |
-| Azure DevOps | Coursera Project Network | 2023 |
 | Docs as Code Certification | platformOS | 2026 |
 | Adobe Experience Manager (AEM) Guides and PDF Accessibility | Adobe Digital | 2026 |
-| Accessible Content Specialist | Contented | *In Progress* \| 2026 |
-| Good Manufacturing Practice (GMP) for Pharma & QA | Udemy | *In Progress* \| 2026 |
+| Accessible Content Specialist | Contented | 2026 |
+| Azure DevOps | Coursera Project Network | 2023 |
 
 <h4> AI Credentials </h4>
 
@@ -54,6 +53,7 @@ Table of industry-standard style guides and publication manuals utilized across 
 | AI Fundamentals | Google | 2026 |
 | AI for Brainstorming and Planning | Google | 2026 |
 | Generative AI Production Tools (Gemini, Claude, ChatGPT, Jasper AI) | Coursiv | 2026 |
+| AI Security, Governance & Compliance | Udemy | *In Progress* \| 2026 |
 
 <h3> Connect with me:</h3>
 
