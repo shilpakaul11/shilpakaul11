@@ -53,7 +53,7 @@ Table of industry-standard style guides and publication manuals utilized across 
 | AI Fundamentals | Google | 2026 |
 | AI for Brainstorming and Planning | Google | 2026 |
 | Generative AI Production Tools (Gemini, Claude, ChatGPT, Jasper AI) | Coursiv | 2026 |
-| AI Security, Governance & Compliance | Udemy | *In Progress* \| 2026 |
+| AI Security, Governance & Compliance | Udemy | 2026 |
 
 <h3> Connect with me:</h3>
 
