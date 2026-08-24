@@ -45,6 +45,7 @@ Table of industry-standard style guides and publication manuals utilized across 
 | Adobe Experience Manager (AEM) Guides and PDF Accessibility | Adobe Digital | 2026 |
 | Accessible Content Specialist | Contented | 2026 |
 | Azure DevOps | Coursera Project Network | 2023 |
+| ServiceNow ITSM Processes | Udemy | 2022 |
 
 <h4> AI Credentials </h4>
 
