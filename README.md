@@ -36,6 +36,12 @@ Table of industry-standard style guides and publication manuals utilized across 
 | Schwab Editorial Style Guide | Corporate/Finance | Specialized guidelines tailored for corporate financial communications and wealth management content. |
 | American Psychological Association (APA) Publication Manual | Academic | The official standard for behavioral and social sciences research formatting and citations. |
 
+### Professional Affiliations
+*   **The Good Docs Project**:
+    Collaborating globally to create and refine open-source documentation templates and best practices. Working within global working groups using GitLab to review, test, and iterate on template designs based on community feedback. Applying technical writing and editing skills within community-driven working groups to improve usability.
+*   **Write the Docs**:
+    Active member of the global Write the Docs community, collaborating with an international network of documentarians, technical writers, and software engineers to benchmark industry best practices in content governance and information delivery. Actively engage with modern documentation methodologies, emerging Docs-as-Code toolchains, and editorial standards through continuous participation in community forums, global conferences, and professional development networks.
+
 <h3> Certifications</h3>
 <h4> Technical and Content Certifications </h4>
 
