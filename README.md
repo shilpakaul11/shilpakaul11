@@ -6,6 +6,12 @@ Explore the repository Wiki to review my foundational frameworks: [AI-First Docu
 <h3> About me </h3> 
 I am an Information Architect and a Technical Writer with more than a decade experience engineering scalable documentation for complex enterprise ecosystems. I partner with engineering leaders, product executives, and cross-functional teams to turn complex system architectures into intuitive, highly reusable information assets. Throughout my career, my focus has been moving organizations away from siloed, high-maintenance text toward highly efficient, structured infrastructure. Whether migrating legacy platforms to advanced Enterprise Component Content Management Systems (CCMS) or setting up markdown-driven Docs-as-Code setups in Git environments, I build systems that scale alongside software release cycles.
 
+<h3> Education </h3> 
+
+* MS in Computer Science – Central Michigan University, Mt Pleasant, Michigan, USA
+* Bachelor of Engineering in Computer Science – M. S. University of Baroda, Gujarat, India
+
+
 <h3 style="color: #34495e; margin-top: 30px;">What I Do Best</h3>
   <ul style="padding-left: 20px;">
     <li style="margin-bottom: 10px;"><strong>Modern & Structured Authoring:</strong> Equally fluent in modern <em>Docs-as-Code</em> workflows and structured <em>DITA XML</em> environments.</li>
