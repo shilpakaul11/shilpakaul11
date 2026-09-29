@@ -35,6 +35,7 @@ Table of industry-standard style guides and publication manuals utilized across 
 
 | Style Guide | Category | Primary Focus & Use Case |
 | :--- | :--- | :--- |
+| Diataxis Framework | Technical | Structures content around user needs by organizing documentation into four distinct forms: tutorials, how-to guides, technical reference, and explanation. |
 | Microsoft Manual of Style for Technical Publications | Technical | Standard for clear, concise, and user-friendly software documentation. |
 | Apple Publication Style Guide | Technical | Focuses on precision, tone, and specific terminology for hardware/software content. |
 | Google Cloud Publishing Guide | Technical | Framework for developer-focused cloud infrastructure and API documentation. |
