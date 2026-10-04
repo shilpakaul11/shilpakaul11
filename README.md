@@ -4,7 +4,7 @@ Welcome to my Portfolio!👋</br> I am a technical writer focused on delivering 
 Explore the repository Wiki to review my foundational frameworks: [AI-First Documentation Operations Model](https://github.com/shilpakaul11/My-Writing-Samples/wiki/AI%E2%80%90First-Documentation-Operating-Model)  and [AI-First Documentation Architecture](https://github.com/shilpakaul11/My-Writing-Samples/wiki/AI%E2%80%90First-Documentation-Architecture).
 
 <h3> About me </h3> 
-I am an Information Architect and a Technical Writer with more than a decade of experience engineering scalable documentation for complex enterprise ecosystems. I partner with engineering leaders, product executives, and cross-functional teams to turn complex system architectures into intuitive, highly reusable information assets. Throughout my career, my focus has been moving organizations away from siloed, high-maintenance text toward highly efficient, structured infrastructure. Whether migrating legacy platforms to advanced Enterprise Component Content Management Systems (CCMS) or setting up markdown-driven Docs-as-Code setups in Git environments, I build systems that scale alongside software release cycles.
+I am an Information Architect and a Technical Writer with more than a decade of experience engineering scalable documentation for complex enterprise ecosystems. I partner with engineering leaders, product executives, and cross-functional teams to turn complex system architectures into intuitive, highly reusable information assets. Throughout my career, my focus has been moving organizations away from siloed, high-maintenance text toward highly efficient, structured infrastructure. Whether migrating legacy platforms to advanced Enterprise Component Content Management Systems (CCMS) or setting up markdown-driven Docs-as-Code setups in Git environments, I build systems that scale alongside software release cycles. I am a contributor to The Good Docs Project, architecting standardized open-source templates, knowledge base frameworks, and universal quality metrics. Also, I am an invited contributing author to an upcoming SUNY Press academic collection, publishing a 4,000-word chapter analyzing the career evolution and professional identity of technical writers.
 
 <h3> Education </h3> 
 
@@ -44,6 +44,9 @@ Table of industry-standard style guides and publication manuals utilized across 
 | American Psychological Association (APA) Publication Manual | Academic | The official standard for behavioral and social sciences research formatting and citations. |
 
 ### Professional Affiliations
+*   **SUNY Press**:
+Invited Contributing Author, Technical Communication Book Project - Authoring a chapter - 4,000-word for an academic collection exploring the career evolution and professional identity of technical writers.
+
 *   **The Good Docs Project**:
     Collaborating globally to create and refine open-source documentation templates and best practices. Working within global working groups using GitLab to review, test, and iterate on template designs based on community feedback. Applying technical writing and editing skills within community-driven working groups to improve usability.
 *   **Write the Docs**:
