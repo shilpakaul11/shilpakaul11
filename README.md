@@ -10,7 +10,7 @@ I am an Information Architect and a Technical Writer with more than a decade of 
 
 <h3> Education </h3> 
 
-* MS in Computer Science – Central Michigan University, Mt Pleasant, Michigan, USA
+* Masters in Computer Science – Central Michigan University, Mt Pleasant, Michigan, USA
 * Bachelor of Engineering in Computer Science – M. S. University of Baroda, Gujarat, India
 
 
